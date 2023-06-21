@@ -1,5 +1,5 @@
 # Sistem-Reservasi-Hotel-Java-Netbeans
-Sistem Reservasi Hotel untuk Admin, UAS Pemrogramman Berorientasi Objek
+Sistem Reservasi Hotel untuk Admin, Project UAS Pemrogramman Berorientasi Objek
 
 <img width="530" alt="image" src="https://github.com/Bhanurzh/Sistem-Reservasi-Hotel-Java-Netbeans/assets/100182862/abacda49-18a3-4b03-bb2a-91cce66ffc6d">
 <img width="532" alt="image" src="https://github.com/Bhanurzh/Sistem-Reservasi-Hotel-Java-Netbeans/assets/100182862/eb1c9b13-a892-4a56-b370-6fa89b83d279">
